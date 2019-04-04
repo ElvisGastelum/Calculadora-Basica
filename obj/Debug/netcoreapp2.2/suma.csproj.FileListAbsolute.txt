@@ -1,0 +1,11 @@
+/home/elvis/Documents/Programacion/C#/suma/obj/Debug/netcoreapp2.2/suma.csprojAssemblyReference.cache
+/home/elvis/Documents/Programacion/C#/suma/obj/Debug/netcoreapp2.2/suma.csproj.CoreCompileInputs.cache
+/home/elvis/Documents/Programacion/C#/suma/obj/Debug/netcoreapp2.2/suma.AssemblyInfoInputs.cache
+/home/elvis/Documents/Programacion/C#/suma/obj/Debug/netcoreapp2.2/suma.AssemblyInfo.cs
+/home/elvis/Documents/Programacion/C#/suma/bin/Debug/netcoreapp2.2/suma.deps.json
+/home/elvis/Documents/Programacion/C#/suma/bin/Debug/netcoreapp2.2/suma.runtimeconfig.json
+/home/elvis/Documents/Programacion/C#/suma/bin/Debug/netcoreapp2.2/suma.runtimeconfig.dev.json
+/home/elvis/Documents/Programacion/C#/suma/bin/Debug/netcoreapp2.2/suma.dll
+/home/elvis/Documents/Programacion/C#/suma/bin/Debug/netcoreapp2.2/suma.pdb
+/home/elvis/Documents/Programacion/C#/suma/obj/Debug/netcoreapp2.2/suma.dll
+/home/elvis/Documents/Programacion/C#/suma/obj/Debug/netcoreapp2.2/suma.pdb
